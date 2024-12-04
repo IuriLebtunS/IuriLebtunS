@@ -19,7 +19,7 @@
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://github.com/IuriLebtunS"></a>
-    <img style="width: 48%; height: 220px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=iurilebtuns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img style="width: 48%; height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=iurilebtuns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img style="width: 48%; height: 170px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurilebtuns&layout=compact&langs_count=16&theme=dracula">
 </div>
 
