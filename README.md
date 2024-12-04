@@ -3,17 +3,11 @@
 - 🔭 **Atualmente trabalho com BackEnd**
 - 🌱 **Estou estudando Análises e Desenvolvimento de Sistemas**
 
-<div style="display: flex; align-items: center;">
-  <strong style="margin-right: 20px;">Conecte-se comigo:</strong>
-  <a href="mailto:lebtuniuri@gmail.com" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lebtuniuri@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+### Conecte-se comigo:
+<div> 
+  <a href="mailto:lebtuniuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:lebtuniuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 
