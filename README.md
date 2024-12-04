@@ -2,9 +2,20 @@
 
 - 🔭 **Atualmente trabalho com BackEnd**
 - 🌱 **Estou estudando Análises e Desenvolvimento de Sistemas**
-- 📫 **Contato:** [lebtuniuri@gmail.com](mailto:lebtuniuri@gmail.com) | [iuri1920@gmail.com](mailto:iuri1920@gmail.com)
 
----
+<div style="display: flex; align-items: center;">
+  <strong style="margin-right: 20px;">Conecte-se comigo:</strong>
+  <a href="mailto:lebtuniuri@gmail.com" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lebtuniuri@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
 
 ### Tecnologias que estou aprendendo e utilizando:
 
@@ -25,20 +36,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurilebtuns&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
 
 ### Projetos Pessoais:
 
 🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)** - Sistema de gerenciamento de estoque e produtos desenvolvido com foco em Backend utilizando C# e .NET. O projeto permite o cadastro e controle de produtos, gerenciamento de estoque e geração de relatórios detalhados, facilitando a administração de inventário em empresas de pequeno e médio porte.
 
----
 
-### Conecte-se comigo:
 
-<div> 
-  <a href="mailto:lebtuniuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
 
