@@ -17,7 +17,6 @@
   <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ##
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://github.com/IuriLebtunS"></a>
     <img style="width: 48%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=iurilebtuns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
