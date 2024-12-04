@@ -1,6 +1,4 @@
 ## Olá! 👋 Eu So Iuri Lebtun
-
-
 - 🔭 Hoje trabalho com BackEnd
 - 🌱 Estudo Analises e Desenvolvimento de Sistemas 
 - 📫 How to reach me: lebtuniuri@gmail.com/iuri1920@gmsil.com
