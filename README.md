@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou Iuri Lebtun, Estudante de Desenvolvimento e Análises de Sistemas
 
-- 🔭 **Atualmente trabalho com BackEnd**
+- 🔭 **Atualmente trabalho com programador BackEnd na [DeliveryNow app](https://dn.app.br/)**
 - 🌱 **Estou estudando Análises e Desenvolvimento de Sistemas**
 
 ### Conecte-se comigo:
