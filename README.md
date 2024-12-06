@@ -35,7 +35,6 @@
 
 🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)** - Sistema de gerenciamento de estoque e produtos desenvolvido com foco em Backend utilizando C# e .NET. O projeto permite o cadastro e controle de produtos, gerenciamento de estoque e geração de relatórios detalhados, facilitando a administração de inventário em empresas de pequeno e médio porte.
 
-![snake gif](https://github.com/IuriLebtunS/IuriLebtunS/blob/output/github-contribution-grid-snake.svg)
 
 
 
