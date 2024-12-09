@@ -2,9 +2,7 @@
 
 - 🔭 **Atualmente trabalho como programador BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow app</a>**
 - 👨‍🎓 **Estou estudando Análises e Desenvolvimento de Sistemas**
-<div style="display: flex; align-items: center; gap: 40px;">
-  <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="350">
-</div>
+<img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="350">
  
 ### Conecte-se comigo:
 <div> 
