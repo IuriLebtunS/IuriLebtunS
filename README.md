@@ -37,8 +37,12 @@
 
 ### Projetos Pessoais:
 
-🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)** - Sistema de gerenciamento de estoque e produtos desenvolvido com foco em Backend utilizando C# e .NET. O projeto permite o cadastro e controle de produtos, gerenciamento de estoque e geração de relatórios detalhados, facilitando a administração de inventário em empresas de pequeno e médio porte.
 
+
+🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)** - Este é o meu projeto de maior destaque! Desenvolvi o Octavados, um sistema completo de gerenciamento de estoque e produtos, utilizando C# e .NET com o padrão de arquitetura MVC, focado em otimizar a administração de inventários para empresas de pequeno e médio porte.
+O projeto foi construído com boas práticas de desenvolvimento, garantindo escalabilidade e facilidade de manutenção. Essa experiência foi essencial para aprimorar minhas habilidades em desenvolvimento e criar uma solução prática e de alto desempenho.
+
+🚀 **[Desafios de Lógica de Programação - Gustavo Guanabara](https://github.com/IuriLebtunS/Portafolio1)** - Neste repositório, compilei os 100 exercícios de lógica de programação do Gustavo Guanabara, com o objetivo de desenvolver minhas habilidades em lógica de programação e orientação a objetos. Através desses desafios, aprendi a criar algoritmos eficientes enquanto aprimoro meus conhecimentos em Git e GitHub. Ao longo do meu percurso como Analista de Sistemas e Desenvolvedor, vou subir os exercícios resolvidos, os desafios que enfrentei e projetos que desenvolvi, criando assim um portfólio do meu histórico de aprendizagem e evolução na área de tecnologia.
 
 
 
