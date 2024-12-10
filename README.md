@@ -4,7 +4,7 @@
 - 👨‍🎓 **Estou estudando Análises e Desenvolvimento de Sistemas**
 <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="350">
  
-### Conecte-se comigo:
+### Conecte-se comigo 📲 :
 <div> 
   <a href="mailto:lebtuniuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
