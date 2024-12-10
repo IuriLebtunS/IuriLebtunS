@@ -2,8 +2,9 @@
 
 - 🔭 **Atualmente trabalho como programador BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow app</a>**
 - 👨‍🎓 **Estou estudando Análises e Desenvolvimento de Sistemas**
-<img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="350"><br/>
- 
+<img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="350"><br/><br/><br/>
+
+<br/>
 ### Conecte-se comigo 📲 :
 <div> 
   <a href="mailto:lebtuniuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
