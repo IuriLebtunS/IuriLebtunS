@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou Iuri Lebtun, Estudante de Análises e Desenvolvimento de Sistemas
 
-- 🔭 **Atualmente trabalho como programador BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow app</a>**<img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="350">
+- 🔭 **Atualmente trabalho como programador BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow app</a>**<img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
 - 👨‍🎓 **Estou estudando Análises e Desenvolvimento de Sistemas**
 - 🎸**Sou Musico de Blues!!!**
 - 🌎 Sou chileno e moro no Brasil há 2 anos!
