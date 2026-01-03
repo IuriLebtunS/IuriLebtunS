@@ -46,18 +46,24 @@
 
 ### Meu GitHub e Estatísticas:
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <a href="https://github.com/IuriLebtunS"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iurilebtuns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurilebtuns&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<table  width="100%">
+  <tr>
+    <td align="center">
+      <img width="420"
+           src="https://github-readme-stats-sigma-five.vercel.app/api?username=IuriLebtunS&theme=dracula&hide_border=true" />
+    </td>
+    <td align="center">
+      <img width="390"
+           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IuriLebtunS&layout=compact&theme=dracula&hide_border=true" />
+    </td>
+  </tr>
+</table>
+<br>
 
 ---
+
 
 ### Projetos Pessoais:
 
 🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)**  
-Este é o meu projeto de maior destaque! Estou desenvolvendo o Octavados, um sistema completo de gerenciamento de estoque e produtos. O projeto está em desenvolvimento contínuo e ainda não foi finalizado. Ele foi criado utilizando C# e .NET com o padrão de arquitetura MVC, além de utilizar um banco de dados SQL Server. O objetivo do Octavados é otimizar a administração de inventários para empresas de pequeno e médio porte, oferecendo uma solução robusta, escalável e de fácil manutenção. Com funcionalidades como controle de estoque, gerenciamento de produtos e acompanhamento de entradas e saídas, o sistema está sendo projetado para ser flexível e adaptável às necessidades do mercado. Este projeto tem sido uma excelente oportunidade para aprimorar minhas habilidades em desenvolvimento de software e arquitetura de sistemas.
-
-🚀 **[Desafios de Lógica de Programação - Gustavo Guanabara](https://github.com/IuriLebtunS/Portafolio1)**  
-Neste repositório, compilei os 100 exercícios de lógica de programação do Gustavo Guanabara, com o objetivo de desenvolver minhas habilidades em lógica de programação e orientação a objetos. Através desses desafios, aprendi a criar algoritmos eficientes enquanto aprimoro meus conhecimentos em Git e GitHub. Ao longo do meu percurso como Analista de Sistemas e Desenvolvedor, vou subir os exercícios resolvidos, os desafios que enfrentei e projetos que desenvolvi, criando assim um portfólio do meu histórico de aprendizagem e evolução na área de tecnologia.
+Projeto de gerenciamento de estoque e produtos, desenvolvido em C# e .NET (MVC) com SQL Server. Focado em otimizar o controle de inventários para pequenas e médias empresas. Projeto em desenvolvimento contínuo.
