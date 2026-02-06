@@ -1,4 +1,4 @@
-<code>&lt;div&gt;</code> <code>&lt;p&gt;Hello World!&lt;/p&gt;</code> <code>&lt;p&gt;Iuri Lebtun&lt;/p&gt;</code> <code>&lt;/div&gt;</code>
+<code>&lt;div&gt;</code> <code>&lt;p&gt;Hello World!&lt;/p&gt;</code> <code>&lt;p&gt;Meu nome e Iuri Lebtun&lt;/p&gt;</code> <code>&lt;/div&gt;</code>
 
 💻 Desenvolvedor BackEnd .NET
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
