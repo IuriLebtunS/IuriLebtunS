@@ -1,8 +1,15 @@
-## Olá! 👋 Eu sou Iuri Lebtun, Estudante de Análises e Desenvolvimento de Sistemas
+<code>&lt;div&gt;</code> <code>&lt;p&gt;Hello World!&lt;/p&gt;</code> <code>&lt;p&gt;Iuri Lebtun&lt;/p&gt;</code> <code>&lt;/div&gt;</code>
 
-- 🔭 **Atualmente trabalho como programador BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow app</a>** <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
-- 👨‍🎓 **Estou estudando Análises e Desenvolvimento de Sistemas 👨‍💻💻**
-- 🌎 **Sou chileno e moro no Brasil há 2 anos!**
+💻 Desenvolvedor BackEnd .NET
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
+
+🔭 Desenvolvedor BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow</a>, com 3 anos de experiência no desenvolvimento de sistemas, APIs REST e regras de negócio
+
+👨‍🎓 Cursando o 2º ano de Análise e Desenvolvimento de Sistemas
+
+🌎 Chileno, residindo no Brasil desde 2022
+
+🗣️ Espanhol nativo | Português fluente
 
 
 ### Conecte-se comigo 📲 :
@@ -67,3 +74,13 @@
 
 🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)**  
 Projeto de gerenciamento de estoque e produtos, desenvolvido em C# e .NET (MVC) com SQL Server. Focado em otimizar o controle de inventários para pequenas e médias empresas. Projeto em desenvolvimento contínuo.
+
+---
+<code>&lt;div class="diferenciais"&gt;</code>
+
+✅ <code>3 anos de experiência profissional em ambiente real de produção</code>  
+✅ <code>Forte atuação em BackEnd .NET</code>  
+✅ <code>Espanhol nativo (diferencial para times internacionais)</code>  
+✅ <code>Experiência com regras de negócio e sistemas corporativos</code>
+
+<code>&lt;/div&gt;</code>
