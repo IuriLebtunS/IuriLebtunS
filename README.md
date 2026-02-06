@@ -75,6 +75,15 @@
 🚀 **[Projeto Octavados](https://github.com/IuriLebtunS/Octavados)**  
 Projeto de gerenciamento de estoque e produtos, desenvolvido em C# e .NET (MVC) com SQL Server. Focado em otimizar o controle de inventários para pequenas e médias empresas. Projeto em desenvolvimento contínuo.
 
+📅 **[Sistema de Escala de Dirigentes de Campo](LINK_DO_REPO)**
+
+Congregação Solares
+Sistema desenvolvido para organizar automaticamente a escala mensal dos dirigentes de campo aos sábados, eliminando o uso de planilhas manuais e facilitando ajustes, visualização e exportação da escala.
+Tecnologias: ASP.NET Core MVC · Entity Framework Core · SQL Server · Bootstrap
+
+🔗 Veja mais projetos e meu portfólio:
+https://iurilebtuns.github.io/IuriLebtunSite/
+
 ---
 
 ### Diferenciais:
