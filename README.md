@@ -76,11 +76,14 @@
 Projeto de gerenciamento de estoque e produtos, desenvolvido em C# e .NET (MVC) com SQL Server. Focado em otimizar o controle de inventários para pequenas e médias empresas. Projeto em desenvolvimento contínuo.
 
 ---
+
+### Diferenciais:
+
 <code>&lt;div class="diferenciais"&gt;</code>
 
-✅ <code>3 anos de experiência profissional em ambiente real de produção</code>  
-✅ <code>Forte atuação em BackEnd .NET</code>  
-✅ <code>Espanhol nativo (diferencial para times internacionais)</code>  
-✅ <code>Experiência com regras de negócio e sistemas corporativos</code>
+  <code>&lt;a&gt;&lt;p&gt;3 anos de experiência profissional em ambiente real de produção&lt;/p&gt;&lt;/a&gt;</code>  
+  <code>&lt;a&gt;&lt;p&gt;Forte atuação em BackEnd .NET&lt;/p&gt;&lt;/a&gt;</code>  
+  <code>&lt;a&gt;&lt;p&gt;Espanhol nativo (diferencial para times internacionais)&lt;/p&gt;&lt;/a&gt;</code>  
+  <code>&lt;a&gt;&lt;p&gt;Experiência com regras de negócio e sistemas corporativos&lt;/p&gt;&lt;/a&gt;</code>
 
 <code>&lt;/div&gt;</code>
