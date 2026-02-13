@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&duration=1&pause=1000&color=00FF00&background=00000000&vCenter=true&repeat=false&width=600&lines=Meu+nome+%C3%A9+Iuri+Lebtun" />
 </p>
+
 💻 Desenvolvedor BackEnd .NET
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
 
