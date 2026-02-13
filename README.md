@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=3000&pause=1000&color=00FF00&background=00000000&vCenter=true&repeat=false&width=600&lines=Hello+World!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&pause=1000&color=00FF00&vCenter=true&repeat=false&width=600&lines=Hello+World!" />
 </p>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&duration=1&pause=1000&color=00FF00&background=00000000&vCenter=true&repeat=false&width=600&lines=Meu+nome+%C3%A9+Iuri+Lebtun" />
