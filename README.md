@@ -1,4 +1,4 @@
-<code>&lt;div&gt;</code> <code>&lt;p&gt;Hello World!&lt;/p&gt;</code> <code>&lt;p&gt;Meu nome e Iuri Lebtun&lt;/p&gt;</code> <code>&lt;/div&gt;</code>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=false&vCenter=true&width=600&lines=Hello+World!;Meu+nome+é+Iuri+Lebtun" />
 
 💻 Desenvolvedor BackEnd .NET
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
