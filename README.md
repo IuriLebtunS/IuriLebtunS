@@ -1,22 +1,22 @@
 <p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2000&pause=1000&color=00FF00&background=000000&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=C:%5C%3E+Hello+World!;Meu+nome+%C3%A9+Iuri+Lebtun;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=1200&pause=600&color=00FF00&background=000000&vCenter=true&multiline=true&repeat=true&width=750&height=150&lines=C:%5CWINDOWS%5CSystem32%3E+Inicializando+sistema...;Carregando+m%C3%B3dulos+BackEnd...;C:%5C%3E+Hello+World!;C:%5C%3E+Iuri+Lebtun" 
   />
 </p>
 
 💻 Desenvolvedor BackEnd .NET
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 🔭 Desenvolvedor BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow</a>, com 3 anos de experiência no desenvolvimento de sistemas, APIs REST e regras de negócio
 
-👨‍🎓 Cursando o 2º ano de Análise e Desenvolvimento de Sistemas
+👨‍🎓 Cursando o 2º ano de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
+
 
 🌎 Chileno, residindo no Brasil desde 2022
 
-🗣️ Espanhol nativo | Português fluente
+🗣️ Espanhol nativo | Português fluente 
 
-
-### Conecte-se comigo 📲 :
+### Conecte-se comigo 📲 :  
 <div> 
   <a href="mailto:lebtuniuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iuri-lebtun-24b947114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
