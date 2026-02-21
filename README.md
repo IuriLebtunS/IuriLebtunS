@@ -1,8 +1,7 @@
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&pause=1000&color=00FF00&vCenter=true&repeat=false&width=600&lines=Hello+World!" />
-</p>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&duration=1&pause=1000&color=00FF00&background=00000000&vCenter=true&repeat=false&width=600&lines=Meu+nome+%C3%A9+Iuri+Lebtun" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2000&pause=1000&color=00FF00&background=000000&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=C:%5C%3E+Hello+World!;Meu+nome+%C3%A9+Iuri+Lebtun;" 
+  />
 </p>
 
 💻 Desenvolvedor BackEnd .NET
