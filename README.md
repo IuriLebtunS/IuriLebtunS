@@ -9,9 +9,7 @@
 
 🔭 Desenvolvedor BackEnd na <a href="https://dn.app.br/" style="text-decoration: none;">DeliveryNow</a>, com 3 anos de experiência no desenvolvimento de sistemas, APIs REST e regras de negócio
 
-👨‍🎓 Cursando o 2º ano de Análise e Desenvolvimento de Sistemas <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Darth Vader Thumbs Up" width="300">
-
-
+👨‍🎓 Cursando o 2º ano de Análise e Desenvolvimento de Sistemas 
 🌎 Chileno, residindo no Brasil desde 2022
 
 🗣️ Espanhol nativo | Português fluente 
